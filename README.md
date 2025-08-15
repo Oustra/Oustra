@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/oustra/oustra/raw/main/hk.gif](https://tenor.com/en-GB/view/hollow-knight-knight-lantern-running-run-gif-1881883598400204889" width="300" height="300"/>
+  <img src="https://github.com/oustra/oustra/raw/main/outputs.gif" width="300" height="300"/>
 </div>
 
 
