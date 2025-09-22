@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/oustra/oustra/raw/main/outputs.gif" width="300" height="300"/>
+  <img src="https://github.com/oustra/oustra/raw/main/outputs2.gif" width="300" height="300"/>
 </div>
 
 
